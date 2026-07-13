@@ -146,9 +146,9 @@
 .market-value {
   font-size: 13px;
   color: var(--text-secondary);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;
+  overflow: visible;
+  line-height: 1.4;
 }
 
 .market-divider {
