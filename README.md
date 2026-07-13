@@ -255,5 +255,5 @@ Built as part of **WO-02** at **Caarya Innovative Solutions Pvt. Ltd.**
 
 ## 👤 Author
 
-**Himanshu Sharma**
+**Himanshu Jain**
 Intern — Caarya Innovative Solutions Pvt. Ltd.
