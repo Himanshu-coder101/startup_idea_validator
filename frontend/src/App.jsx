@@ -25,7 +25,7 @@ export default function App() {
     setScreen(SCREENS.RESEARCH); // Go to live feed screen
 
     try {
-      const response = await fetch("http://localhost:3001/api/validate", {
+      const response = await fetch("https://startup-idea-validator-uewv.onrender.com/api/validate",{
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ idea: ideaText }),
