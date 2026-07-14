@@ -22,7 +22,7 @@ The core innovation: **the personas are aware of each other**. The disagreements
 
 ## 🖥️ Live Demo
 
-- **Frontend:** [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+- **Frontend:** [https://will-it-startup.vercel.app](https://your-vercel-url.vercel.app)
 - **Backend API:** [https://startup-idea-validator-uewv.onrender.com](https://startup-idea-validator-uewv.onrender.com)
 
 ---
